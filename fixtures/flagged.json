@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "data": {
+    "id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "type": "url",
+    "attributes": {
+      "last_analysis_date": 1794268800,
+      "last_analysis_stats": {
+        "malicious": 3,
+        "suspicious": 1,
+        "undetected": 66
+      }
+    }
+  }
+}
